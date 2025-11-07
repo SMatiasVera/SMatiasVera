@@ -2,11 +2,14 @@
 
 En este repositorio ligado a mi canal de Youtube,encontrarás archivos relacionados con realizar gráficos en Rstudio y algunas otras herramientas.
 
-# Mi canal de Youtube y Redes sociales   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/Qu%C3%ADmicaVerap)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/QuimicaVerapOficialYT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matiasmicro_/?hl=es-la)
+# Mi canal de Youtube y Redes sociales
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/Qu%C3%ADmicaVerap)  
+
+# Contacto  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/QuimicaVerapOficialYT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matiasmicro_/?hl=es-la)
 ---
 
 ## 🧫 Listas de reproducción del canal: Medios de Cultivo, Microbiología y más.
-<p align="center">
+<p align="">
   <a href="https://youtube.com/playlist?list=PLq3VM_NxiMk6edQlxy0r5cPxCsbc0rAki&si=Dpu2EnJx2F0opctb" target="_blank">
     <img src="https://i.ytimg.com/vi/OYTgeyT1pPw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCfHzl42ZPc8XEwrM84INOL6mDn1g" width="250" alt="Medios de cultivo episodio 1"/>
   </a>
@@ -20,7 +23,7 @@ En este repositorio ligado a mi canal de Youtube,encontrarás archivos relaciona
 ---
 
 ## 🎙️ Podcast de Química Verap  
-<p align="center">
+<p align="">
   <a href="https://youtube.com/playlist?list=PLq3VM_NxiMk7Zo26dxEM1Nbb5u7X01e4R&si=VmUJItRIA9fDKjhf" target="_blank">
     <img src="https://i.ytimg.com/pl_c/PLq3VM_NxiMk7Zo26dxEM1Nbb5u7X01e4R/studio_square_thumbnail.jpg?sqp=CKDvuMgG-oaymwEICNAFENAFSFqi85f_AwYI2YjBrgY=&rs=AOn4CLD3UfCXCbRbSaiuyITpqF_uj1GXEA" width="250" alt="Podcast episodio 3"/>
   </a>
