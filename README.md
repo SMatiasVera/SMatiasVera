@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG41NWkydXE0ZmlmcGVtb2wwZnI0Y2lycHQ5dngwZHo0MGJydzJoNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ayJ5Slf22BbjsP77JL/giphy.gif" width="100"/> Bienvenidos al GitHub de SMatiasVera 👋🇲🇽🧫
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG41NWkydXE0ZmlmcGVtb2wwZnI0Y2lycHQ5dngwZHo0MGJydzJoNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ayJ5Slf22BbjsP77JL/giphy.gif" width="100"/> Bienvenidos al GitHub de Química Verap 👋🇲🇽🧫
 
 En este repositorio ligado a mi canal de Youtube,encontrarás archivos relacionados con realizar gráficos en Rstudio y algunas otras herramientas.
 
