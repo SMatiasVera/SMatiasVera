@@ -22,7 +22,7 @@ En este repositorio ligado a mi canal de Youtube,encontrarás archivos relaciona
 ## 🎙️ Podcast de Ciencia
 <p align=""> 
   <a href="https://youtu.be/nwepfWKbd68?si=183eE4qww9_ATanl" target="_blank">
-    <img src="https://i.ytimg.com/pl_c/PLq3VM_NxiMk7Zo26dxEM1Nbb5u7X01e4R/studio_square_thumbnail.jpg?sqp=CKDvuMgG-oaymwEICNAFENAFSFqi85f_AwYI2YjBrgY=&rs=AOn4CLD3UfCXCbRbSaiuyITpqF_uj1GXEA" width="250" alt="Podcast episodio 3"/>
+    <img src="https://i.ytimg.com/pl_c/PLq3VM_NxiMk7Zo26dxEM1Nbb5u7X01e4R/studio_square_thumbnail.jpg?sqp=CND45MgG-oaymwEICNAFENAFSFqi85f_AwYI2YjBrgY=&rs=AOn4CLCk5yHd-0eFKtm4zu2eXPoKQnFhOQ" width="250"/>
   </a>
   <a href="https://youtu.be/M2DTWnP-GoM?si=_kAKIpiD8yDisf_l" target="_blank">
     <img src="https://i.ytimg.com/vi/M2DTWnP-GoM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGADYAQHiAQoIGBACGAY4AUAB8AEB-AG2CIACuAiKAgwIABABGEggZShTMA8=&rs=AOn4CLCGudlMGusreh_fwmrTrvtDlSNdTw" width="250" alt="Podcast episodio 2"/>
