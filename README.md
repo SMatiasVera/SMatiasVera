@@ -1,6 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG41NWkydXE0ZmlmcGVtb2wwZnI0Y2lycHQ5dngwZHo0MGJydzJoNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ayJ5Slf22BbjsP77JL/giphy.gif" width="100"/> Bienvenidos al GitHub de Química Verap 👋🇲🇽🧫
-
+#Sergio Matias Vera
 En este repositorio ligado a mi canal de Youtube,encontrarás archivos relacionados con realizar gráficos en Rstudio y algunas otras herramientas.
+
 
 # Mi canal de Youtube y Redes sociales
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/Qu%C3%ADmicaVerap)   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/QuimicaVerapOficialYT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matiasmicro_/?hl=es-la)
